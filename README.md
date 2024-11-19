@@ -1,5 +1,5 @@
 # **Prince Tetteh**, MPA
-[Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](www.linkedin.com/in/prince-tetteh-8a135774). [Github](https://github.comprtetteh.github.io)
+[Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](https://www.linkedin.com/in/prince-tetteh-8a135774/). [Github](https://github.comprtetteh.github.io)
 
 ---
 
