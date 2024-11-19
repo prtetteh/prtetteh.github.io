@@ -1,12 +1,15 @@
-# Prince Tetteh, MPA
+# **Prince Tetteh**, MPA
+[Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](www.linkedin.com/in/prince-tetteh-8a135774). [Github](https://github.comprtetteh.github.io)
 
-**Address:**  
+---
+
+##**Address:**  
 Saint Louis, Missouri
 
 **Phone:**  
 (636) 341-9066  
 
-**Email:**  
+##**Email:**  
 prince.tetteh@slu.edu  
 
 ---
