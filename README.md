@@ -132,6 +132,11 @@ GPA: 2.67/4.0
 
 ---
 
+## **Projects**
+### [SuperStores](https://prtetteh.github.io/Projects/)
+
+---
+
 ## Languages
 - English (Native)
 - French (Basic)
