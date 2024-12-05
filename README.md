@@ -90,7 +90,7 @@ Dynamically versed customer service-driven business professional with a proven t
 ### Master of Science in Supply Chain Management
 **Saint Louis University, St. Louis, MO**  
 *Aug. 2023 - Present*  
-GPA: 3.0/4.0  
+GPA: 3.11/4.0  
 Awards & Honors: Global Graduate Merit Scholarship
 
 ### Master in Public Administration
