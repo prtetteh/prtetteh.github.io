@@ -49,7 +49,7 @@ Dynamically versed customer service-driven business professional with a proven t
 
 ## Professional Experience
 
-### OIS Processor
+### OIS Processor    On-Campus Job 
 **Office of International Services at Saint Louis University, St. Louis, MO**  
 *May 2024 – Present*
 - Pulling up student admission records in Slate.
