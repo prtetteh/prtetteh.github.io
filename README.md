@@ -20,33 +20,6 @@ Dynamically versed customer service-driven business professional with a proven t
 
 ---
 
-## Skills
-
-### Hard Skills
-- Self-Driven
-- Stakeholder Relations & Management
-- Supply Chain Visibility
-- Negotiating Skills
-- Strategic Planning
-- Procurement
-- Logistics Management
-- Risk Management
-- Problem Solver
-
-### Tools and Software
-- Supply Chain Management Software
-- Sylectus (Alliance)
-- Truckstop Software
-- DAT
-- Microsoft Word
-- Excel
-- Tableau
-- PowerPoint
-- Google Colab (Python)
-- R
-
----
-
 ## Professional Experience
 
 ### OIS Processor    On-Campus Job 
@@ -137,6 +110,32 @@ GPA: 2.67/4.0
 
 ---
 
+## Skills
+
+### Hard Skills
+- Self-Driven
+- Stakeholder Relations & Management
+- Supply Chain Visibility
+- Negotiating Skills
+- Strategic Planning
+- Procurement
+- Logistics Management
+- Risk Management
+- Problem Solver
+
+### Tools and Software
+- Supply Chain Management Software
+- Sylectus (Alliance)
+- Truckstop Software
+- DAT
+- Microsoft Word
+- Excel
+- Tableau
+- PowerPoint
+- Google Colab (Python)
+- R
+
+---
 ## Languages
 - English (Native)
 - French (Basic)
