@@ -89,7 +89,7 @@ Dynamically versed customer service-driven business professional with a proven t
 
 ### Master of Science in Supply Chain Management
 **Saint Louis University, St. Louis, MO**  
-*Aug. 2023 - Present*  
+*May 2023 - Present*  
 Awards & Honors: Global Graduate Merit Scholarship
 
 ### Master in Public Administration
