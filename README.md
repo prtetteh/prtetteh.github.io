@@ -90,18 +90,15 @@ Dynamically versed customer service-driven business professional with a proven t
 ### Master of Science in Supply Chain Management
 **Saint Louis University, St. Louis, MO**  
 *Aug. 2023 - Present*  
-GPA: 3.11/4.0  
 Awards & Honors: Global Graduate Merit Scholarship
 
 ### Master in Public Administration
 **Simon Kuznets National University of Economics, Kharkiv, Ukraine**  
-*Dec. 2021*  
-GPA: 3.26/4.0
+*Dec. 2021* 
 
 ### Bachelor of Business Administration (Accounting)
 **Valley View University, Accra, Ghana**  
-*Nov. 2012*  
-GPA: 2.67/4.0
+*Nov. 2012*
 
 ---
 
