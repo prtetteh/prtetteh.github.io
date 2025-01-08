@@ -1,15 +1,15 @@
-# **Prince Tetteh**, MPA
-[Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](https://www.linkedin.com/in/prince-tetteh-8a135774/). [Github](https://github.com/prtetteh/prtetteh.github.io)
+# **Prince Tetteh**, MPA, MS SCM.
+[Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](https://www.linkedin.com/in/prince-tetteh-8a135774/). [Github](https://prtetteh.github.io)
 
 ---
 
-##**Address:**  
+## **Address:**  
 Saint Louis, Missouri
 
 **Phone:**  
 (636) 341-9066  
 
-##**Email:**  
+## **Email:**  
 prince.tetteh@slu.edu  
 
 ---
@@ -82,7 +82,7 @@ Dynamically versed customer service-driven business professional with a proven t
 
 ### Master of Science in Supply Chain Management
 **Saint Louis University, St. Louis, MO**  
-*May 2023 - Present*  
+*May 2023 - May 2025*  
 Awards & Honors: Global Graduate Merit Scholarship
 
 ### Master in Public Administration
@@ -130,7 +130,6 @@ Awards & Honors: Global Graduate Merit Scholarship
 - English (Native)
 - French (Basic)
 - Russian (Basic)
-```
 
 Feel free to let me know if you need any adjustments or additional information!Dillinger
 ## _The Last Markdown Editor, Ever_
