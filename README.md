@@ -22,7 +22,7 @@ Dynamically versed customer service-driven business professional with a proven t
 
 ## Professional Experience
 
-### OIS Processor    On-Campus Job 
+### Student Communication & Document Processor - Student Worker 
 **Office of International Services at Saint Louis University, St. Louis, MO**  
 *May 2024 – Present*
 - Pulling up student admission records in Slate.
@@ -75,13 +75,6 @@ Dynamically versed customer service-driven business professional with a proven t
 - Facilitated audits to secure international stakeholders for Grant Thornton.
 - Developed a smartphone application blueprint for diverse student needs.
 - Consulted with global teams and departmental leaders for each project.
-
-### Children's Department Teacher
-**Seventh Day Adventist Church, Awoshie, Ghana**  
-*Jan. 2007 - Present*
-- Supervise and mentor children's classes, instructing Bible lessons.
-- Train and encourage children to be future leaders.
-- Lecture Sabbath School lessons and divine services.
 
 ---
 
