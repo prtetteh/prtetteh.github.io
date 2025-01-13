@@ -1,6 +1,5 @@
 # **Prince Tetteh**, MPA, MS SCM.
 [Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](https://www.linkedin.com/in/prince-tetteh-8a135774/). [Github](https://prtetteh.github.io). **Address:**:Saint Louis, Missouri. **Phone:** :(636) 341-9066 
----
 
 ## Profile
 
@@ -47,7 +46,6 @@ Accomplished business professional with expertise in customer service, strategic
 - Coordinated delivery of new membership cards, negotiated insurance claims, and assisted with administrative tasks.
 
 ---
-
 ## Leadership & Internship Experience
 
 ### International Ambassador
@@ -58,20 +56,11 @@ Accomplished business professional with expertise in customer service, strategic
 - Address inquiries during orientation days and transport students to campus from the airport.
 - Share pertinent, timely information and updates on a communication platform.
 
-### Team Leader / Intern
-**Global Shala & Saint Louis University, St. Louis, MO**  
-*Feb. 2023 - Jun. 2023 / Feb. 2023 – Aug. 2023*
-- Delivered prevention interventions for high school teenage pregnancy.
-- Facilitated audits to secure international stakeholders for Grant Thornton.
-- Developed a smartphone application blueprint for diverse student needs.
-- Consulted with global teams and departmental leaders for each project.
-
 ---
-
 ## Education
 
 ### Master of Science in Supply Chain Management
-**Saint Louis University, St. Louis, MO**  
+**Richard A. Chaifetz School of Business - Saint Louis University, St. Louis, MO.**  
 *May 2023 - May 2025*  
 Awards & Honors: Global Graduate Merit Scholarship
 
@@ -93,32 +82,13 @@ Awards & Honors: Global Graduate Merit Scholarship
 ## Skills
 
 ### Hard Skills
-- Self-Driven
-- Stakeholder Relations & Management
-- Supply Chain Visibility
-- Negotiating Skills
-- Strategic Planning
-- Procurement
-- Logistics Management
-- Risk Management
-- Problem Solver
+- Self-Driven, Stakeholder Relations & Management, Supply Chain Visibility, Negotiating Skills, Strategic Planning, Procurement, Logistics Management, Risk Management, Problem Solver.
 
 ### Tools and Software
-- Supply Chain Management Software
-- Sylectus (Alliance)
-- Truckstop Software
-- DAT
-- Microsoft Word
-- Excel
-- Tableau
-- PowerPoint
-- Google Colab (Python)
-- R
+- Supply Chain Management Software, Sylectus (Alliance), Truckstop Software, DAT, Microsoft Word, Excel, Tableau, PowerPoint, Google Colab (Python), R.
 
 ---
 ## Languages
-- English (Native)
-- French (Basic)
-- Russian (Basic)
+- English (Native), French (Basic), Russian (Basic).
 
 # prtetteh.github.io
