@@ -2,13 +2,10 @@
 [Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](https://www.linkedin.com/in/prince-tetteh-8a135774/). [Github](https://prtetteh.github.io). **Address:**:Saint Louis, Missouri. **Phone:** :(636) 341-9066 
 
 ## Profile
-
 Accomplished business professional with expertise in customer service, strategic negotiation, supply chain processes, transport logistics, and asset procurement. Proven ability to lead small teams, enhancing productivity and sales. Eager to leverage my professional and academic background, along with strong interpersonal, innovative, negotiation, and analytical skills, to contribute to a supply chain customer-focused organization and develop effective promotional strategies for market growth.
 
 ---
-
 ## Professional Experience
-
 ### Student Communication & Document Processor - Student Worker 
 **Office of International Services at Saint Louis University, St. Louis, MO**  
 *May 2024 – Present*
@@ -47,7 +44,6 @@ Accomplished business professional with expertise in customer service, strategic
 
 ---
 ## Leadership & Internship Experience
-
 ### International Ambassador
 **Saint Louis University, St. Louis, MO**  
 *Aug. 2023 - Apr. 2024*
@@ -58,7 +54,6 @@ Accomplished business professional with expertise in customer service, strategic
 
 ---
 ## Education
-
 ### Master of Science in Supply Chain Management
 **Richard A. Chaifetz School of Business - Saint Louis University, St. Louis, MO.**  
 *May 2023 - May 2025*  
@@ -73,14 +68,11 @@ Awards & Honors: Global Graduate Merit Scholarship
 *Nov. 2012*
 
 ---
-
 ## **Projects**
 ### [SuperStores](https://prtetteh.github.io/Projects/)
 
 ---
-
-## Skills
-
+##Skills
 ### Hard Skills
 - Self-Driven, Stakeholder Relations & Management, Supply Chain Visibility, Negotiating Skills, Strategic Planning, Procurement, Logistics Management, Risk Management, Problem Solver.
 
