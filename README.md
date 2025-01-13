@@ -16,7 +16,7 @@ prince.tetteh@slu.edu
 
 ## Profile
 
-Accomplished business professional with expertise in customer service, strategic negotiation, supply chain processes, transport logistics, and asset procurement. Proven ability to lead small teams, enhancing productivity and sales. Eager to leverage my professional and academic background, along with strong interpersonal, innovative, negotiation, and analytical skills, to contribute to a customer-focused organization and develop effective promotional strategies for market growth.
+Accomplished business professional with expertise in customer service, strategic negotiation, supply chain processes, transport logistics, and asset procurement. Proven ability to lead small teams, enhancing productivity and sales. Eager to leverage my professional and academic background, along with strong interpersonal, innovative, negotiation, and analytical skills, to contribute to a supply chain customer-focused organization and develop effective promotional strategies for market growth.
 
 ---
 
