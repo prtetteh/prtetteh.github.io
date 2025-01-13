@@ -34,14 +34,6 @@ Accomplished business professional with expertise in customer service, strategic
 - Efficiently filled carrier packets, issued invoices, and receipts.
 - Streamlined logistical operations by submitting Bills of Lading and Proof of Delivery.
 
-### Account Recovery Officer
-**Nationwide Medical Insurance (NMI), Accra, Ghana**  
-*Jan. 2019 - Feb. 2020*
-- Generated invoices and recovered outstanding funds from NMI beneficiaries.
-- Facilitated clients in accessing insurance details and ensured overall satisfaction.
-- Marketed, educated, and sold insurance plans, increasing revenue.
-- Coordinated delivery of new membership cards, negotiated insurance claims, and assisted with administrative tasks.
-
 ---
 ## Leadership & Internship Experience
 ### International Ambassador
