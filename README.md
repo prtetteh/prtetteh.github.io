@@ -1,14 +1,6 @@
 # **Prince Tetteh**, MPA, MS SCM.
-[Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](https://www.linkedin.com/in/prince-tetteh-8a135774/). [Github](https://prtetteh.github.io). ## **Address:**:Saint Louis, Missouri. **Phone:** :(636) 341-9066 
+[Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](https://www.linkedin.com/in/prince-tetteh-8a135774/). [Github](https://prtetteh.github.io). **Address:**:Saint Louis, Missouri. **Phone:** :(636) 341-9066 
 
----
-
-## **Address:**  
-Saint Louis, Missouri
-
-**Phone:**  
-(636) 341-9066  
-  
 ---
 
 ## Profile
