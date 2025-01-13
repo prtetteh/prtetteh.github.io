@@ -72,7 +72,6 @@ Awards & Honors: Global Graduate Merit Scholarship
 ### [SuperStores](https://prtetteh.github.io/Projects/)
 
 ---
-##Skills
 ### Hard Skills
 - Self-Driven, Stakeholder Relations & Management, Supply Chain Visibility, Negotiating Skills, Strategic Planning, Procurement, Logistics Management, Risk Management, Problem Solver.
 
