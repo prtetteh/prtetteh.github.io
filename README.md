@@ -16,7 +16,7 @@ prince.tetteh@slu.edu
 
 ## Profile
 
-Dynamically versed customer service-driven business professional with a proven track record of strategically negotiating and procuring stakeholders and assets, ultimately attaining supervisory and leadership positions of small teams to increase productivity and sales revenues. Seeking to dedicate my professional and academic experiences, along with my keenly recognized interpersonal, innovative, negotiation, and analytical skills, to collaborate with a reputable customer-centric organization to design and bolster novel promotional strategies to optimize and drive marketplace growth.
+Accomplished business professional with expertise in customer service, strategic negotiation, supply chain processes, transport logistics, and asset procurement. Proven ability to lead small teams, enhancing productivity and sales. Eager to leverage my professional and academic background, along with strong interpersonal, innovative, negotiation, and analytical skills, to contribute to a customer-focused organization and develop effective promotional strategies for market growth.
 
 ---
 
@@ -25,8 +25,10 @@ Dynamically versed customer service-driven business professional with a proven t
 ### Student Communication & Document Processor - Student Worker 
 **Office of International Services at Saint Louis University, St. Louis, MO**  
 *May 2024 – Present*
-- Pulling up student admission records in Slate.
+- Accessing and reviewing student admission files within the Slate higher education CRM platform.
 - Accessing tuition and living costs spreadsheet to review student cost of program for the year.
+- Conducting rigorous reviews of student financial documents to identify potential fraud or alterations in support of I-20 form issuance.
+- Consulting with International Services Advisors for a second opinion on student financial documentation, with a focus on assessing and reviewing potential discrepancies or concerns.
 - Reviewing student financial documents and scholarships to see if allocated.
 - Moving students' records having enough funds to the I-20 ready bin and the students having insufficient funds and missing documents to awaiting materials bin.
 
