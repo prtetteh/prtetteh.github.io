@@ -9,19 +9,19 @@ Accomplished business professional with expertise in customer service, strategic
 ### Student Communication & Document Processor - Student Worker 
 **Office of International Services at Saint Louis University, St. Louis, MO**  
 *May 2024 – Present*
-- Accessing and reviewing student admission files within the Slate higher education CRM platform.
-- Accessing tuition and living costs spreadsheet to review student cost of program for the year.
-- Conducting rigorous reviews of student financial documents to identify potential fraud or alterations in support of I-20 form issuance.
-- Consulting with International Services Advisors for a second opinion on student financial documentation, with a focus on assessing and reviewing potential discrepancies or concerns.
-- Reviewing student financial documents and scholarships to see if allocated.
-- Moving students' records having enough funds to the I-20 ready bin and the students having insufficient funds and missing documents to awaiting materials bin.
+- Accessed and reviewed student admission files within the Slate education CRM platform, enhancing the accuracy of applicant documents and streamlining the I-20 processing.
+- Accessed and reviewed tuition and living costs spreadsheet to evaluate student program expenses for the year, leading to more accurate budget forecasts and enhanced financial planning.
+- Conducted rigorous reviews of student financial documents to identify potential fraud or alterations, supporting the accurate issuance of I-20 forms and maintaining compliance with regulatory standards.
+Consulted with International Services Advisors to access and review student financial documentation, identifying and addressing potential discripancies or concerns to ensure compliance and accuracy.
+- Reviewed student financial documents and scholarships to ensure proper allocation, enhancing the accuracy of financial aid distribution and supporting student success.
+- Moved students' records with sufficient funds to the I-20 ready bin and directed those with insufficient funds or missing documents to the awaiting materials bin, improving the efficiency of the I-20 issuance process.
 
 ### Information Desk Associate
 **The Center for Global Citizenship at Saint Louis University, St. Louis, MO**  
 *Nov. 2023 – Jan. 2024*
-- Deliver exceptional customer service to welcome, guide, and address inquiries for culturally diverse students, faculty, staff, and visitors.
-- Serve visitors with a wealth of resources, including workshops, cultural celebrations, support services, and community-building activities.
-- Delegate administrative tasks, including managing sign-in QR codes, maintaining and updating informational materials, overseeing inquiries via phone and email, and organizing the work area.
+- Delivered exceptional customer service to welcome, guide, and address inquiries for culturally diverse students, faculty, staff, and visitors.
+- Served visitors with a wealth of resources, including workshops, cultural celebrations, support services, and community-building activities.
+- Delegated administrative tasks, including managing sign-in QR codes, maintaining and updating informational materials, overseeing inquiries via phone and email, and organizing the work area.
 - Initiated team-led collaborations to enhance equity and embrace diversity-inclusive initiatives.
 
 ### Dispatcher / Supervisor
@@ -64,14 +64,10 @@ Awards & Honors: Global Graduate Merit Scholarship
 ### [SuperStores](https://prtetteh.github.io/Projects/)
 
 ---
-### Hard Skills
-- Self-Driven, Stakeholder Relations & Management, Supply Chain Visibility, Negotiating Skills, Strategic Planning, Procurement, Logistics Management, Risk Management, Problem Solver.
+### Hard Skills & Languages
+- Self-Driven, Stakeholder Relations & Management, Supply Chain Visibility, Negotiating Skills, Strategic Planning, Procurement, Logistics Management, Risk Management, Problem Solver, English (Native), French (Basic), Russian (Basic).
 
 ### Tools and Software
 - Supply Chain Management Software, Sylectus (Alliance), Truckstop Software, DAT, Microsoft Word, Excel, Tableau, PowerPoint, Google Colab (Python), R.
-
----
-## Languages
-- English (Native), French (Basic), Russian (Basic).
 
 # prtetteh.github.io
