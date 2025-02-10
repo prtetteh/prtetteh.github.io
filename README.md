@@ -15,7 +15,7 @@ Accomplished business professional with expertise in customer service, strategic
 - Consulting with Designated Student Advisors, resolving any possible inconsistencies or issues to guarantee correctness and compliance with student documents and move successful documents to ready bin for I-20 issuance.
 - Enhancing the efficiency of the I-20 issuance process by moving student records with adequate finances to the I-20 ready bin and moving those with inadequate funds or missing documentation to the awaiting materials bin.
  
-###Information Desk Associate
+### Information Desk Associate
 **The Center for Global Citizenship at Saint Louis University, St. Louis, MO**  *Nov. 2023 – Jan. 2024*
 - Delivered exceptional customer service to welcome, guide, and address inquiries for culturally diverse students, faculty, staff, and visitors.
 - Served visitors with a wealth of resources, including workshops, cultural celebrations, support services, and community-building activities.
