@@ -14,14 +14,14 @@ Accomplished business professional with expertise in customer service, strategic
 - Accessing spreadsheet for estimated tuition and living expenses to calculate the annual costs of the student program, which resulted in improved financial planning and more precise budget projections for the student I-20.
 - Consulting with Designated Student Advisors, resolving any possible inconsistencies or issues to guarantee correctness and compliance with student documents and move successful documents to ready bin for I-20 issuance.
 - Enhancing the efficiency of the I-20 issuance process by moving student records with adequate finances to the I-20 ready bin and moving those with inadequate funds or missing documentation to the awaiting materials bin.
-- 
-### Information Desk Associate
+ 
+###Information Desk Associate
 **The Center for Global Citizenship at Saint Louis University, St. Louis, MO**  *Nov. 2023 – Jan. 2024*
 - Delivered exceptional customer service to welcome, guide, and address inquiries for culturally diverse students, faculty, staff, and visitors.
 - Served visitors with a wealth of resources, including workshops, cultural celebrations, support services, and community-building activities.
 - Delegated administrative tasks, including managing sign-in QR codes, maintaining and updating informational materials, overseeing inquiries via phone and email, and organizing the work area.
 - Initiated team-led collaborations to enhance equity and embrace diversity-inclusive initiatives.
-- 
+ 
 ## Dispatcher / Supervisor
 **Drive 53 Dispatch Services LLC, Kharkiv, Ukraine**  
 *Mar. 2021 - Jan. 2023 / Sept. 2021 - Feb. 2022*
@@ -31,7 +31,7 @@ Accomplished business professional with expertise in customer service, strategic
 - Trained and motivated team in negotiating bids and acquiring loads.
 - Efficiently filled carrier packets, issued invoices, and receipts.
 - Streamlined logistical operations by submitting Bills of Lading and Proof of Delivery.
-- 
+
 ## Leadership & Internship Experience
 ### International Ambassador
 **Saint Louis University, St. Louis, MO**  
@@ -40,7 +40,7 @@ Accomplished business professional with expertise in customer service, strategic
 - Conduct university tours, direct individuals to centers, departments, and career services.
 - Address inquiries during orientation days and transport students to campus from the airport.
 - Share pertinent, timely information and updates on a communication platform.
-- 
+  
 ## Education
 ### Master of Science in Supply Chain Management
 **Richard A. Chaifetz School of Business - Saint Louis University, St. Louis, MO.**  
