@@ -60,6 +60,7 @@ Awards & Honors: Global Graduate Merit Scholarship
 ### [SuperStores](https://prtetteh.github.io/Projects/)
 ### Hard Skills & Languages
 - Self-Driven, Stakeholder Relations & Management, Supply Chain Visibility, Negotiating Skills, Strategic Planning, Procurement, Logistics Management, Risk Management, Problem Solver,English (Native), French (Basic), Russian (Basic).
+
 ### Tools and Software
 - Supply Chain Management Software, Sylectus (Alliance), Truckstop Software, DAT, Microsoft Word, Excel, Tableau, PowerPoint, Google Colab (Python), R.
 
