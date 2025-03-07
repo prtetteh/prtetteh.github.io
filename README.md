@@ -8,12 +8,15 @@ Accomplished business professional with expertise in customer service, strategic
 ### Student Communication & Document Processor - Student Worker 
 **Office of International Services at Saint Louis University, St. Louis, MO**  
 *May 2024 – Present*
-- Improving the accuracy of application materials and expediting the I-20 processing by accessing and reviewing student admission files in the Slate education CRM platform.
-- Conducting thorough examinations of student financial records to spot possible fraud or changes, inspecting affidavits of support of sponsor corresponds with the name on financial statement, ensuring that I-20 processing are issued correctly and in accordance with regulations.
-- Examining student financial records and scholarships to guarantee appropriate distribution, improving the precision of financial aid disbursement.
-- Accessing spreadsheet for estimated tuition and living expenses to calculate the annual costs of the student program, which resulted in improved financial planning and more precise budget projections for the student I-20.
-- Consulting with Designated Student Advisors, resolving any possible inconsistencies or issues to guarantee correctness and compliance with student documents and move successful documents to ready bin for I-20 issuance.
-- Enhancing the efficiency of the I-20 issuance process by moving student records with adequate finances to the I-20 ready bin and moving those with inadequate funds or missing documentation to the awaiting materials bin.
+- Accessing and reviewing student admission files in the Slate CRM platform.
+- Examining student financial records and affidavits of support to ensure compliance and detect fraud.
+- Ensuring accurate financial aid disbursement by reviewing scholarships and financial records.
+- Calculating annual costs using estimated tuition and living expenses for better financial planning.
+- Consulting with Designated Student Advisors to resolve inconsistencies and ensure document compliance.
+- Streamlining the I-20 issuance process by categorizing student records based on financial adequacy and documentation completeness.
+- Setting and meeting targeted goals of processing about 80-100 student applications a day in the Processor Review Bin.
+- Addressed specific student applications outside regular working hours as directed by the Director Office of International my boss.
+- Filled in for the receptionist, attending to students at the front desk when needed.
  
 ### Information Desk Associate
 **The Center for Global Citizenship at Saint Louis University, St. Louis, MO**  *Nov. 2023 – Jan. 2024*
