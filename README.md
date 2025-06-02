@@ -8,13 +8,13 @@ Accomplished business professional with expertise in customer service, strategic
 ### Student Communication & Document Processor - Student Worker 
 **Office of International Services at Saint Louis University, St. Louis, MO**  
 *May 2024 – May 2025*
-- Accessing and reviewing student admission files in the Slate CRM platform.
-- Examining student financial records and affidavits of support to ensure compliance and detect fraud.
-- Ensuring accurate financial aid disbursement by reviewing scholarships and financial records.
-- Calculating annual costs using estimated tuition and living expenses for better financial planning.
-- Consulting with Designated Student Advisors to resolve inconsistencies and ensure document compliance.
-- Streamlining the I-20 issuance process by categorizing student records based on financial adequacy and documentation completeness.
-- Setting and meeting targeted goals of processing about 80-100 student applications a day in the Processor Review Bin.
+- Accessed and reviewed student admission files in the Slate CRM platform.
+- Examined student financial records and affidavit of support to ensure compliance and detect fraud.
+- Ensured accurate financial aid disbursement by reviewing scholarships and financial records.
+- Calculated annual costs using estimated tuition and living expenses for better financial planning.
+- Consulted with Designated Student Advisors to resolve inconsistencies and ensure document compliance.
+- Streamlined the I-20 issuance process by categorizing student records based on financial adequacy and documentation completeness.
+- Set and met targeted goals of processing about 80-100 student applications a day in the Processor Review Bin.
 - Addressed specific student applications outside regular working hours as directed by the Director Office of International my boss.
 - Filled in for the receptionist, attending to students at the front desk when needed.
  
