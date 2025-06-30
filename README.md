@@ -58,6 +58,10 @@ Awards & Honors: Global Graduate Merit Scholarship
 
 ### **Projects**
 ### [SuperStores](https://prtetteh.github.io/Projects/)
+### **Study Abroad Program in Spain**
+**Data Visualization & Decision Making with Supply Chain, and Retail Supply Chain**
+
+*Logis Fashion, Mercamadrid, Sodexo, H&M , Zara.*
 ### Hard Skills & Languages
 - Self-Driven, Stakeholder Relations & Management, Supply Chain Visibility, Negotiating Skills, Strategic Planning, Procurement, Logistics Management, Risk Management, Problem Solver,English (Native), French (Basic), Russian (Basic).
 
