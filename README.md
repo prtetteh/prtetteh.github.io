@@ -1,4 +1,4 @@
-# **Prince Tetteh**, MPA, MS SCM.
+# **Prince Tetteh**, BBA, MSc SCM.
 [Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](https://www.linkedin.com/in/prince-tetteh-8a135774/). [Github](https://prtetteh.github.io).  **Address:**San Bernardino, Califonia.  **Phone:** (636) 341-9066
 
 ---
@@ -48,10 +48,7 @@ Accomplished business professional with expertise in customer service, strategic
 ### Master of Science in Supply Chain Management
 **Richard A. Chaifetz School of Business - Saint Louis University, St. Louis, MO.**  
 *May 2023 - May 2025*  
-Awards & Honors: Global Graduate Merit Scholarship
-### Master in Public Administration
-**Simon Kuznets National University of Economics, Kharkiv, Ukraine**  
-*Dec. 2021* 
+Awards & Honors: Global Graduate Merit Scholarship 
 ### Bachelor of Business Administration (Accounting)
 **Valley View University, Accra, Ghana**  
 *Nov. 2012*
