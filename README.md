@@ -3,7 +3,9 @@
 
 ---
 ## Profile
-Accomplished business professional with expertise in customer service, strategic negotiation, supply chain processes, transport logistics, and asset procurement. Proven ability to lead small teams, enhancing productivity and sales. Eager to leverage my professional and academic background, along with strong interpersonal, innovative, negotiation, and analytical skills, to contribute to a supply chain customer-focused organization and develop effective promotional strategies for market growth.
+ Business professional with expertise in customer service, negotiation, supply chain logistics, and asset procurement. Skilled in leading
+ teams to boost efficiency and sales. Seeking to apply strong analytical, interpersonal, and strategic skills in a customer-focused
+ supply chain environment to drive market growth.
 ### Professional Experience
 ### Student Communication & Document Processor - Student Worker 
 **Office of International Services at Saint Louis University, St. Louis, MO**  
@@ -16,7 +18,7 @@ Accomplished business professional with expertise in customer service, strategic
 - Streamlined the I-20 issuance process by categorizing student records based on financial adequacy and documentation completeness.
 - Set and met targeted goals of processing about 80-100 student applications a day in the Processor Review Bin.
 - Addressed specific student applications outside regular working hours as directed by the Director Office of International my boss.
-- Filled in for the receptionist, attending to students at the front desk when needed.
+- Provided front desk support in the absence of the receptionist, assisting students as needed.
  
 ### Information Desk Associate
 **The Center for Global Citizenship at Saint Louis University, St. Louis, MO**  *Nov. 2023 – Jan. 2024*
