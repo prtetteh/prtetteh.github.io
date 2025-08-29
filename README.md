@@ -3,39 +3,47 @@
 
 ---
 ## Profile
- Business professional with expertise in customer service, negotiation, supply chain logistics, and asset procurement. Skilled in leading
- teams to boost efficiency and sales. Seeking to apply strong analytical, interpersonal, and strategic skills in a customer-focused
- supply chain environment to drive market growth.
+Results-driven logistics and supply chain professional with a Master of Science in Supply Chain Management and hands-on experience in transportation planning, dispatch operations, and customer service. Proven ability to optimize load tendering, carrier coordination, and appointment scheduling using platforms such as Sylectus, DAT, and Truckstop. Adept at unifying warehouse and carrier operations to drive on-time shipping and delivery performance. Seeking to contribute to a customer-focused logistics team with global impact.
+
+### Core Competencies
+- Transportation Management Systems (TMS);
+- Warehouse Management Systems (WMS);
+- Load Tendering & Appointment Scheduling;
+- Carrier Coordination & Recovery Strategies;
+- Accessorial Charge Validation;
+- Slate Customer Relationship Management;
+- On-Time Pickup & Delivery Optimization;
+- Daily Closing Reports & Performance Tracking;
+-  Logistics Communication & Stakeholder Management;
+-  Data Analysis & Process Improvement.
+
 ### Professional Experience
 ### Student Communication & Document Processor - Student Worker 
 **Office of International Services at Saint Louis University, St. Louis, MO**  
 *May 2024 – May 2025*
-- Accessed and reviewed student admission files in the Slate CRM platform.
-- Examined student financial records and affidavit of support to ensure compliance and detect fraud.
+- Processed 80–100 student records daily using rule-driven workflows, ensuring compliance and timely release.
+- Reviewed financial documentation and affidavits to detect inconsistencies and prevent fraud.
+- Collaborated with Designated Student Advisors to resolve documentation issues and streamline I-20 issuance.
 - Ensured accurate financial aid disbursement by reviewing scholarships and financial records.
-- Calculated annual costs using estimated tuition and living expenses for better financial planning.
-- Consulted with Designated Student Advisors to resolve inconsistencies and ensure document compliance.
-- Streamlined the I-20 issuance process by categorizing student records based on financial adequacy and documentation completeness.
-- Set and met targeted goals of processing about 80-100 student applications a day in the Processor Review Bin.
+- Delivered front desk support and addressed urgent cases outside standard hours, demonstrating responsiveness and precision.
+- Applied scheduling logic and categorization strategies similar to logistics appointment flows and recovery protocols.
 - Addressed specific student applications outside regular working hours as directed by the Director Office of International my boss.
-- Provided front desk support in the absence of the receptionist, assisting students as needed.
- 
+  
+## Dispatcher / Supervisor
+**Drive 53 Dispatch Services LLC, Kharkiv, Ukraine** (Remote)  
+*Mar. 2021 - Jan. 2023 / Sept. 2021 - Feb. 2022*
+- Tendered loads to carriers using Sylectus, DAT, and Truckstop, ensuring real-time communication and coverage.
+- Scheduled pickup appointments and released loads to warehouse systems for on-time shipping.
+- Negotiated carrier bids and validated accessorial charges to maintain cost-effective operations.
+- Drafted daily closing reports detailing missed pickups, recovery status, and overdue load clearance strategies.
+- Unified warehouse and carrier teams to improve truck arrival rates and delivery performance.
+- Trained and motivated team in negotiating bids and acquiring loads.
+
 ### Information Desk Associate
 **The Center for Global Citizenship at Saint Louis University, St. Louis, MO**  *Nov. 2023 – Jan. 2024*
-- Delivered exceptional customer service to welcome, guide, and address inquiries for culturally diverse students, faculty, staff, and visitors.
-- Served visitors with a wealth of resources, including workshops, cultural celebrations, support services, and community-building activities.
-- Delegated administrative tasks, including managing sign-in QR codes, maintaining and updating informational materials, overseeing inquiries via phone and email, and organizing the work area.
-- Initiated team-led collaborations to enhance equity and embrace diversity-inclusive initiatives.
- 
-## Dispatcher / Supervisor
-**Drive 53 Dispatch Services LLC, Kharkiv, Ukraine**  
-*Mar. 2021 - Jan. 2023 / Sept. 2021 - Feb. 2022*
-- Strategically marketed and recruited owner-operators, significantly expanding partnerships.
-- Utilized load boards like Sylectus, DAT, and Truckstop to bid and win loads.
-- Addressed and mitigated customer concerns, delivering timely updates on truck dispatches.
-- Trained and motivated team in negotiating bids and acquiring loads.
-- Efficiently filled carrier packets, issued invoices, and receipts.
-- Streamlined logistical operations by submitting Bills of Lading and Proof of Delivery.
+- Delivered high-touch customer service to culturally diverse students, faculty, and visitors.
+- Managed administrative workflows including QR code tracking, phone/email inquiries, and resource distribution.
+- Supported equity and inclusion initiatives through team-led collaborations and event coordination.
 
 ## Leadership & Internship Experience
 ### International Ambassador
@@ -48,25 +56,23 @@
   
 ## Education
 ### Master of Science in Supply Chain Management
-**Richard A. Chaifetz School of Business - Saint Louis University, St. Louis, MO.**  
-*May 2023 - May 2025*  
+**Richard A. Chaifetz School of Business - Saint Louis University, St. Louis, MO.**   
+*May 2025*  
 Awards & Honors: Global Graduate Merit Scholarship 
 ### Bachelor of Business Administration (Accounting)
-**Valley View University, Accra, Ghana**  
+**Valley View University, Accra, Ghana**      
 *Nov. 2012*
 
-### **Projects**
-### [SuperStores](https://prtetteh.github.io/Projects/)
-### **Study Abroad Program in Spain**
-**Data Visualization & Decision Making with Supply Chain, and Retail Supply Chain**
+### **Projects & Global Exposure**
+### [SuperStores Supply Chain Stimulation](https://prtetteh.github.io/Projects/)
+**Study Abroad Program-Spain**[*Data Visualization & Decision Making with Supply Chain, and Retail Supply Chain*]: *Logis Fashion, Mercamadrid, Sodexo, H&M , Zara.*
 
-*Logis Fashion, Mercamadrid, Sodexo, H&M , Zara.*
-### Hard Skills & Languages
-- Self-Driven, Stakeholder Relations & Management, Supply Chain Visibility, Negotiating Skills, Strategic Planning, Procurement, Logistics Management, Risk Management, Problem Solver,English (Native), French (Basic), Russian (Basic).
+### Tools and Technogies
+Slate Customer Relationship Management (CRM), Sylectus (Omnitracs) Transportation Management System, Truckstop Software, DAT, Microsoft Word, Excel, Tableau, PowerPoint, Google Colab (Python), R.
 
-### Tools and Software
-- Supply Chain Management Software, Sylectus (Alliance), Truckstop Software, DAT, Microsoft Word, Excel, Tableau, PowerPoint, Google Colab (Python), R.
-
+### Languages & Skills
+- English (Native), French (Basic), Russian (Basic).
+- Strategic Planning, Procurement, Logistics Management, Risk Mitigation, Stakeholder Relations, Supply Chain Visibility, Negotiation, Problem Solving.
 
 
 # prtetteh.github.io
