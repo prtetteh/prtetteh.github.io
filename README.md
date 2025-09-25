@@ -1,5 +1,5 @@
 # **Prince Tetteh**, M.S.-SCM, BBA.
-[Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](https://www.linkedin.com/in/prince-tetteh-8a135774/). [Github](https://prtetteh.github.io).  **Address:**San Bernardino, Califonia. 
+[Email](mailto:prince.tetteh22@yahoo.com). [LinkedIn](https://www.linkedin.com/in/prince-tetteh-8a135774/). [Github](https://prtetteh.github.io).  **Address**: San Bernardino, Califonia. **Phone Number**: 840-888-5415.
 
 ---
 ## Profile
