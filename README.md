@@ -3,7 +3,12 @@
 
 ---
 ## Profile
-Results-driven logistics and supply chain professional with a Master of Science in Supply Chain Management and hands-on experience in transportation planning, dispatch operations, and customer service. Proven ability to optimize load tendering, carrier coordination, and appointment scheduling using platforms such as Sylectus, DAT, and Truckstop. Adept at unifying warehouse and carrier operations to drive on-time shipping and delivery performance. Seeking to contribute to a customer-focused logistics team with global impact.
+Dynamic, results-driven supply chain professional with an M.S. in Supply Chain Management and hands-on
+experience across freight dispatch, transportation planning, carrier coordination, financial operations, compliance,
+and customer-facing workflows. Skilled in Sylectus, DAT, Truckstop, Tableau, Python, R, and Excel, with a track
+record of tendering loads, scheduling pickups, negotiating carrier bids, validating accessorial charges, and
+coordinating recovery strategies. Brings an analytical, cross-functional approach to transportation performance,
+process improvement, and end-to-end supply chain visibility.
 
 ### Core Competencies
 - Transportation Planning
