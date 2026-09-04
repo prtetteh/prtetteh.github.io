@@ -6,18 +6,29 @@
 Results-driven logistics and supply chain professional with a Master of Science in Supply Chain Management and hands-on experience in transportation planning, dispatch operations, and customer service. Proven ability to optimize load tendering, carrier coordination, and appointment scheduling using platforms such as Sylectus, DAT, and Truckstop. Adept at unifying warehouse and carrier operations to drive on-time shipping and delivery performance. Seeking to contribute to a customer-focused logistics team with global impact.
 
 ### Core Competencies
-- Transportation Management Systems (TMS);
-- Warehouse Management Systems (WMS);
-- Load Tendering & Appointment Scheduling;
-- Carrier Coordination & Recovery Strategies;
-- Accessorial Charge Validation;
-- Slate Customer Relationship Management;
-- On-Time Pickup & Delivery Optimization;
-- Daily Closing Reports & Performance Tracking;
--  Logistics Communication & Stakeholder Management;
--  Data Analysis & Process Improvement.
+- Transportation Planning
+- TMS/WMS Workflows
+- Load Tendering
+- Carrier Sourcing & Coordination
+- Freight Recovery & Accessorial Validation
+- Negotiation & Vendor Relations
+- Supply Chain Visibility
+- Process Improvement
+- Data Analysis & Reporting
+- Risk Mitigation
+- Stakeholder Management.
 
 ### Professional Experience
+### Freight Agent 
+**Primeflight Aviation Services, Ontario, CA**  
+*April 2026 – July 2026*
+- Processed and scanned 2,000–3,000 inbound materials daily, ensuring accuracy in receiving, sorting, and
+distribution.
+- Reported damaged or hazardous goods and supported compliance with safety, regulatory, and documentation
+standards.
+- Coordinated equipment and packaging materials (pallets, gaylords), contributing to inventory control and workflow
+efficiency.
+
 ### Student Communication & Document Processor - Student Worker 
 **Office of International Services at Saint Louis University, St. Louis, MO**  
 *May 2024 – May 2025*
